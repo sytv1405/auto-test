@@ -1,0 +1,36 @@
+[{
+  "name": "Rear Carrier",
+  "id": "99994-1483",
+  "price": "MSRP $201.95"
+},
+  {
+    "name": "Element-Oil Filter",
+    "id": "52010-1053",
+    "price": "MSRP $8.46"
+  },
+  {
+    "name": "Filter-Oil",
+    "id": "49065-1058",
+    "price": "MSRP $11.85"
+  },
+  {
+    "name": "Element-Air Filter",
+    "id": "11013-0030",
+    "price": "MSRP $47.66"
+  },
+  {
+    "name": "Pad-Assy-Brake",
+    "id": "43082-0060",
+    "price": "MSRP $63.13"
+  },
+  {
+    "name": "Pad-Assy-Brake",
+    "id": "43082-0090",
+    "price": "MSRP $67.60"
+  },
+  {
+    "name": "Handle Bar Pad",
+    "id": "99994-1274",
+    "price": "MSRP $47.95"
+  }
+]
